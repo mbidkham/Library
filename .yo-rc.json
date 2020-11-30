@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.me.test"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "test",
+    "packageName": "com.me.test",
+    "packageFolder": "com/me/test",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWZlYTU2NmQyMjVkMzhlNTllZGYzNTgwZTkyYTFjNmZlOGVlZWUyOTMwNzUxNjJlMWVkNTc3M2U3MTAzMWFjMWExZDdjNDI5YjA5NThhOWM5Njc1NDY3YTVhMzkzYzkwMDZkN2Q0Y2JlOTdlNmRkNjI2ODhhMzhkOWM4MWM4YzA=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
